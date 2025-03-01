@@ -1,4 +1,5 @@
 import styles from './Select.module.css'
+import React from 'react'
 
 function Select({ text, name, options, handleOnChange, value }) {
     return (
